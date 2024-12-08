@@ -1,0 +1,107 @@
+{
+  "children": [
+    {
+      "name": "Comics",
+      "children": [
+        {
+          "name": "Volume 0",
+          "group": "Vol.0",
+          "value": 28,
+          "colname": "level3"
+        },
+        {
+          "name": "Volume 1",
+          "group": "Vol.1",
+          "value": 19,
+          "colname": "level1"
+        },
+        {
+          "name": "Volume 2",
+          "group": "Vol.2",
+          "value": 18,
+          "colname": "level2"
+        },
+        {
+          "name": "Volume 3",
+          "group": "Vol.3",
+          "value": 19,
+          "colname": "level3"
+        }
+      ],
+      "colname": "level2"
+    },
+    {
+      "name": "Fictitious Events",
+      "children": [
+        {
+          "name": "The birth of Sonichu",
+          "group": "Vol.0",
+          "value": 14,
+          "colname": "level1"
+        },
+        {
+          "name": "Boyfriend free Girls",
+          "group": "Vol.1",
+          "value": 11,
+          "colname": "level3"
+        },
+        {
+          "name": "Jerkcops",
+          "group": "Vol.2",
+          "value": 15,
+          "colname": "level2"
+        },
+        {
+          "name": "Mary Lee Walsh Saga",
+          "group": "Vol.3",
+          "value": 16,
+          "colname": "level1"
+        }
+      ],
+      "colname": "level3"
+    },
+    {
+      "name": "Real Events",
+      "children": [
+        {
+          "name": "Boyfriend free Girl Strike",
+          "group": "research",
+          "value": 10,
+          "colname": "level2"
+        },
+        {
+          "name": "Pickle Man",
+          "group": "reasearch",
+          "value": 13,
+          "colname": "level1"
+        },
+        {
+          "name": "Cut down the Internet",
+          "group": "research",
+          "value": 13,
+          "colname": "level3"
+        },
+        {
+          "name": "Medallion",
+          "group": "research",
+          "value": 25,
+          "colname": "level2"
+        },
+        {
+          "name": "Liquid Chris",
+          "group": "research",
+          "value": 16,
+          "colname": "level3"
+        },
+        {
+          "name": "Sonic Boom",
+          "group": "research",
+          "value": 28,
+          "colname": "level1"
+        }
+      ],
+      "colname": "level1"
+    }
+  ],
+  "name": "CEO"
+}
