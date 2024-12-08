@@ -6,25 +6,25 @@
         {
           "name": "Volume 0",
           "group": "Vol.0",
-          "value": 28,
+          "value": 33,  
           "colname": "level3"
         },
         {
           "name": "Volume 1",
           "group": "Vol.1",
-          "value": 19,
-          "colname": "level1"
+          "value": 24,  
+          "colname": "level3"
         },
         {
           "name": "Volume 2",
           "group": "Vol.2",
-          "value": 18,
-          "colname": "level2"
+          "value": 23,  
+          "colname": "level3"
         },
         {
           "name": "Volume 3",
           "group": "Vol.3",
-          "value": 19,
+          "value": 24, 
           "colname": "level3"
         }
       ],
@@ -36,29 +36,29 @@
         {
           "name": "The birth of Sonichu",
           "group": "Vol.0",
-          "value": 14,
-          "colname": "level1"
+          "value": 19,  
+          "colname": "level3"
         },
         {
           "name": "Boyfriend free Girls",
           "group": "Vol.1",
-          "value": 11,
+          "value": 16,  
           "colname": "level3"
         },
         {
           "name": "Jerkcops",
           "group": "Vol.2",
-          "value": 15,
-          "colname": "level2"
+          "value": 20,  
+          "colname": "level3"
         },
         {
           "name": "Mary Lee Walsh Saga",
           "group": "Vol.3",
-          "value": 16,
-          "colname": "level1"
+          "value": 21, 
+          "colname": "level3"
         }
       ],
-      "colname": "level3"
+      "colname": "level2"
     },
     {
       "name": "Real Events",
@@ -66,42 +66,43 @@
         {
           "name": "Boyfriend free Girl Strike",
           "group": "research",
-          "value": 10,
-          "colname": "level2"
+          "value": 15,  
+          "colname": "level3"
         },
         {
           "name": "Pickle Man",
-          "group": "reasearch",
-          "value": 13,
-          "colname": "level1"
+          "group": "research",
+          "value": 18,  
+          "colname": "level3"
         },
         {
           "name": "Cut down the Internet",
           "group": "research",
-          "value": 13,
+          "value": 18,  
           "colname": "level3"
         },
         {
           "name": "Medallion",
           "group": "research",
-          "value": 25,
-          "colname": "level2"
+          "value": 30, 
+          "colname": "level3"
         },
         {
           "name": "Liquid Chris",
           "group": "research",
-          "value": 16,
+          "value": 21, 
           "colname": "level3"
         },
         {
           "name": "Sonic Boom",
           "group": "research",
-          "value": 28,
-          "colname": "level1"
+          "value": 33,  
+          "colname": "level3"
         }
       ],
-      "colname": "level1"
+      "colname": "level2"
     }
   ],
   "name": "CEO"
 }
+
