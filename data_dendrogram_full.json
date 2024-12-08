@@ -34,26 +34,26 @@
       "name": "Fictitious Events",
       "children": [
         {
-          "name": "mister_e",
-          "group": "C",
+          "name": "The birth of Sonichu",
+          "group": "Vol.0",
           "value": 14,
           "colname": "level3"
         },
         {
-          "name": "mister_f",
-          "group": "A",
+          "name": "Boyfriend free Girls",
+          "group": "Vol.1",
           "value": 11,
           "colname": "level3"
         },
         {
-          "name": "mister_g",
-          "group": "B",
+          "name": "Jerkcops",
+          "group": "Vol.2",
           "value": 15,
           "colname": "level3"
         },
         {
-          "name": "mister_h",
-          "group": "B",
+          "name": "Mary Lee Walsh Saga",
+          "group": "Vol.3",
           "value": 16,
           "colname": "level3"
         }
@@ -64,38 +64,38 @@
       "name": "Real Events",
       "children": [
         {
-          "name": "mister_i",
-          "group": "B",
+          "name": "Boyfriend free Girl Strike",
+          "group": "research",
           "value": 10,
           "colname": "level3"
         },
         {
-          "name": "mister_j",
-          "group": "A",
+          "name": "Pickle Man",
+          "group": "reasearch",
           "value": 13,
           "colname": "level3"
         },
         {
-          "name": "mister_k",
-          "group": "A",
+          "name": "Cut down the Internet",
+          "group": "research",
           "value": 13,
           "colname": "level3"
         },
         {
-          "name": "mister_l",
-          "group": "D",
+          "name": "Medallion",
+          "group": "research",
           "value": 25,
           "colname": "level3"
         },
         {
-          "name": "mister_m",
-          "group": "D",
+          "name": "Liquid Chris",
+          "group": "research",
           "value": 16,
           "colname": "level3"
         },
         {
-          "name": "mister_n",
-          "group": "D",
+          "name": "Sonic Boom",
+          "group": "research",
           "value": 28,
           "colname": "level3"
         }
@@ -105,3 +105,4 @@
   ],
   "name": "CEO"
 }
+
